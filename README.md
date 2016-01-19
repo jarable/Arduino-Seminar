@@ -1,2 +1,2 @@
 # Arduino-Seminar
-Arduino code for Districta Day Pro-D
+Arduino code for District Day Pro-D
